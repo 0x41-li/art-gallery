@@ -11,7 +11,7 @@ const App = () => {
       <main>
         <Outlet />
       </main>
-      <Footer addToClassName="mt-[120px]" />
+      <Footer addToClassName="mt-[120px] xl:mt-[180px]" />
     </>
   );
 };
