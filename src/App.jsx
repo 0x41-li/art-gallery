@@ -8,7 +8,7 @@ import "./index.css";
 const App = () => {
   return (
     <>
-      <main className="h-[4000px]">
+      <main>
         <Outlet />
       </main>
       <Footer />
