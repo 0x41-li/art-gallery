@@ -11,7 +11,7 @@ const App = () => {
       <main>
         <Outlet />
       </main>
-      <Footer />
+      <Footer addToClassName="mt-[120px]" />
     </>
   );
 };
