@@ -10,7 +10,7 @@ const RedirectingBtn = (props) => {
         (props.primary
           ? "[&>div:nth-child(1)]:hover:bg-gold [&>div:nth-child(2)]:hover:bg-almost-black"
           : "[&>div:nth-child(1)]:hover:bg-almost-black [&>div:nth-child(2)]:hover:bg-gold") +
-        " mt-8 flex h-[72px] [&>div]:[transition:background_0.6s]"
+        " mt-8 flex h-[72px] [&>div]:[transition:background_0.6s] md:mt-12"
       }
     >
       <div
