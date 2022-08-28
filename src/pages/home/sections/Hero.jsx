@@ -1,5 +1,5 @@
 import React from "react";
-import heroImage from "../../../assets/images/two-couples-observing-a-painting.jpg";
+import heroImage from "../../../assets/images/home/hero/two-couples-observing-a-painting.jpg";
 import RedirectingBtn from "../../../components/RedirectingBtn";
 
 const Hero = () => {
