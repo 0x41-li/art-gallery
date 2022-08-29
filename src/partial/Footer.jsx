@@ -11,10 +11,10 @@ const Footer = (props) => {
     <footer
       className={
         props.addToClassName +
-        " px-[32px] py-[48px] bg-almost-black md:py-[56px] md:pl-[39px] md:pr-[40px] xl:px-[165px] xl:py-[80px]"
+        " px-[32px] py-[48px] bg-almost-black md:py-[56px] md:pl-[39px] md:pr-[40px] xl:px-0 xl:py-[80px]"
       }
     >
-      <div className="max-w-[1440px] mx-auto md:flex">
+      <div className="max-w-[1110px] mx-auto md:flex">
         <Link to="/" className="h-[40px]">
           <Logo className="h-[40px] w-[111px] xl:w-[160px] xl:h-[58px] text-white" />
         </Link>
