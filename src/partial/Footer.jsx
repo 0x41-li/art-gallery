@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 import { ReactComponent as Logo } from "../assets/icons/footer-modern-art-gallery-logo.svg";
 import { ReactComponent as FacebookIcon } from "../assets/icons/facebook-icon.svg";
@@ -7,6 +7,7 @@ import { ReactComponent as InstagramIcon } from "../assets/icons/instagram-icon.
 import { ReactComponent as TwitterIcon } from "../assets/icons/twitter-icon.svg";
 
 const Footer = (props) => {
+  const location = useLocation();
   return (
     <footer
       className={

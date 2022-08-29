@@ -1,6 +1,7 @@
 import React from "react";
-import { Outlet } from "react-router-dom";
-import Footer from "./partial/Footer";
+import { Route, Routes } from "react-router-dom";
+import Home from "./pages/home/Home";
+import Location from "./pages/location/Location";
 
 // css
 import "./index.css";
@@ -8,10 +9,10 @@ import "./index.css";
 const App = () => {
   return (
     <>
-      <main>
-        <Outlet />
-      </main>
-      <Footer addToClassName="mt-[120px] xl:mt-[180px]" />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/location" element={<Location />} />
+      </Routes>
     </>
   );
 };

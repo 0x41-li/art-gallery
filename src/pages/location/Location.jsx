@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import Footer from "../../partial/Footer";
 
 const Location = () => {
   return (
-    <div>Location</div>
-  )
-}
+    <>
+      <main>Location page</main>
+      <Footer secondary/>
+    </>
+  );
+};
 
-export default Location
+export default Location;
