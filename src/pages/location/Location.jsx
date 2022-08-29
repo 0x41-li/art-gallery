@@ -1,10 +1,13 @@
 import React from "react";
 import Footer from "../../partial/Footer";
+import LocationOnAMap from "./sections/LocationOnAMap";
 
 const Location = () => {
   return (
     <>
-      <main>Location page</main>
+      <main>
+        <LocationOnAMap />
+      </main>
       <Footer secondary/>
     </>
   );

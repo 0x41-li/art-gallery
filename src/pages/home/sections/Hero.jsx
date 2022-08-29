@@ -29,7 +29,12 @@ const Hero = () => {
             from a spark of inspiration. Will these pieces inspire you? Visit us
             and find out.
           </p>
-          <RedirectingBtn primary AddToClassName="mt-8 md:mt-12 xl:mt-[64px]" />
+          <RedirectingBtn
+            
+            AddToClassName="mt-8 md:mt-12 xl:mt-[64px]"
+            to="/location"
+            text="OUR LOCATION"
+          />
         </div>
       </div>
     </section>
