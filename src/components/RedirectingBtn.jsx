@@ -9,7 +9,7 @@ const RedirectingBtn = (props) => {
       className={
         "[&>div:nth-child(1)]:hover:bg-gold [&>div:nth-child(2)]:hover:bg-almost-black flex h-[72px] [&>div]:[transition:background_0.6s]" +
         " " +
-        props.AddToClassName
+        props.addToClassName
       }
     >
       <div
