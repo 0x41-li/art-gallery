@@ -24,14 +24,15 @@ const LocationOnAMap = () => {
         oppositeArrow
         text="BACK TO HOME"
         to="/"
-        addToClassName="absolute top-0 left-0 z-[9999]"
+        addToClassName="absolute top-0 left-0 z-[9999] md:left-[39px]"
       />
-      <div className="h-[550px] w-full">
+      <div className="h-[550px] w-full md:h-[600px]">
         <MapContainer
           center={[41.481517165843975, -71.3103603175732]}
           zoom={15}
-          scrollWheelZoom={true}
+          scrollWheelZoom={false}
           attributionControl={false}
+          zoomControl={false}
           className="h-full"
         >
           <TileLayer
