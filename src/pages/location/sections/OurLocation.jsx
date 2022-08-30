@@ -18,7 +18,7 @@ const OurLocation = () => {
             RI 02840 <br />
             United States of America
           </address>
-          <p className="mt-[20px] text-white font-outfit [font-size:18px] [line-height:28px] [font-weight:300]">
+          <p className="mt-[20px] text-white font-outfit [font-size:18px] [line-height:28px] [font-weight:300] max-w-[398px]">
             Our newly opened gallery is located near the Edward King House on 99
             King Street, the Modern Art Gallery is free to all visitors and open
             seven days a week from 8am to 9pm.
