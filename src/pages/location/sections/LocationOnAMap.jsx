@@ -19,13 +19,16 @@ const LocationOnAMap = () => {
   });
   return (
     <section>
-      <RedirectingBtn
-        switch
-        oppositeArrow
-        text="BACK TO HOME"
-        to="/"
-        addToClassName="absolute top-0 left-0 z-[9999] md:left-[39px]"
-      />
+      <div className="relative max-w-[1440px] mx-auto">
+        <RedirectingBtn
+          switch
+          oppositeArrow
+          text="BACK TO HOME"
+          to="/"
+          addToClassName="absolute top-0 left-0 z-[9999] md:left-[39px] xl:left-[156px]"
+        />
+      </div>
+
       <div className="h-[550px] w-full md:h-[600px]">
         <MapContainer
           center={[41.481517165843975, -71.3103603175732]}
