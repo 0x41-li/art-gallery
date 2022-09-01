@@ -17,7 +17,7 @@ const Footer = (props) => {
       }
     >
       <div className="max-w-[1110px] mx-auto md:flex">
-        <Link to="/" className="h-[40px]">
+        <Link to="/" className="h-[40px]" aria-label="Home">
           <Logo
             className={
               "h-[40px] w-[111px] xl:w-[160px] xl:h-[58px]" +
@@ -41,6 +41,7 @@ const Footer = (props) => {
           <div className="flex gap-[20px]">
             <a
               href="#"
+              aria-label="Facebook"
               className={
                 "h-[20px]  [transition:color_0.4s]" +
                 " " +
@@ -60,6 +61,7 @@ const Footer = (props) => {
                   ? "text-almost-black hover:text-white"
                   : "text-white hover:text-gold")
               }
+              aria-label="Instagram"
             >
               <InstagramIcon className="fill-current" />
             </a>
@@ -72,6 +74,7 @@ const Footer = (props) => {
                   ? "text-almost-black hover:text-white"
                   : "text-white hover:text-gold")
               }
+              aria-label="Twitter"
             >
               <TwitterIcon className="fill-current" />
             </a>
