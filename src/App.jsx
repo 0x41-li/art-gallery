@@ -14,7 +14,10 @@ const App = () => {
   useEffect(() => {
     WebFont.load({
       google: {
-        families: ["Big Shoulders Display:900", "Outfit:300"],
+        families: [
+          "Big Shoulders Display:900&display=swap",
+          "Outfit:300&display=swap",
+        ],
       },
     });
   }, []);
