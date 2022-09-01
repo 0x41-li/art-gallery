@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/art-gallery/static/css/main.18bc094c.css",
-    "main.js": "/art-gallery/static/js/main.566201bc.js",
+    "main.js": "/art-gallery/static/js/main.430b406d.js",
     "static/css/237.a9576c5f.chunk.css": "/art-gallery/static/css/237.a9576c5f.chunk.css",
-    "static/js/237.7d22f48e.chunk.js": "/art-gallery/static/js/237.7d22f48e.chunk.js",
-    "static/js/98.9a014fd9.chunk.js": "/art-gallery/static/js/98.9a014fd9.chunk.js",
+    "static/js/237.c3f9e13d.chunk.js": "/art-gallery/static/js/237.c3f9e13d.chunk.js",
+    "static/js/98.391f303f.chunk.js": "/art-gallery/static/js/98.391f303f.chunk.js",
     "static/js/119.cb796137.chunk.js": "/art-gallery/static/js/119.cb796137.chunk.js",
     "static/media/two-couples-observing-a-painting.jpg": "/art-gallery/static/media/two-couples-observing-a-painting.4d1fa94c1620cf220f04.jpg",
     "static/media/grey-room-with-a-table-and-a-painting-635w.jpg": "/art-gallery/static/media/grey-room-with-a-table-and-a-painting-635w.d3bcca8cf4d0634d0f7f.jpg",
@@ -24,14 +24,14 @@
     "static/media/map-marker.svg": "/art-gallery/static/media/map-marker.5e1026fdbfe0116418e825bdd872a5ba.svg",
     "static/media/arrow-right.svg": "/art-gallery/static/media/arrow-right.9c20be73ca8af545fe042d988c839c16.svg",
     "main.18bc094c.css.map": "/art-gallery/static/css/main.18bc094c.css.map",
-    "main.566201bc.js.map": "/art-gallery/static/js/main.566201bc.js.map",
+    "main.430b406d.js.map": "/art-gallery/static/js/main.430b406d.js.map",
     "237.a9576c5f.chunk.css.map": "/art-gallery/static/css/237.a9576c5f.chunk.css.map",
-    "237.7d22f48e.chunk.js.map": "/art-gallery/static/js/237.7d22f48e.chunk.js.map",
-    "98.9a014fd9.chunk.js.map": "/art-gallery/static/js/98.9a014fd9.chunk.js.map",
+    "237.c3f9e13d.chunk.js.map": "/art-gallery/static/js/237.c3f9e13d.chunk.js.map",
+    "98.391f303f.chunk.js.map": "/art-gallery/static/js/98.391f303f.chunk.js.map",
     "119.cb796137.chunk.js.map": "/art-gallery/static/js/119.cb796137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18bc094c.css",
-    "static/js/main.566201bc.js"
+    "static/js/main.430b406d.js"
   ]
 }
