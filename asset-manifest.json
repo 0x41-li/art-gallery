@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18bc094c.css",
+    "main.js": "/static/js/main.4b550467.js",
+    "static/css/237.a9576c5f.chunk.css": "/static/css/237.a9576c5f.chunk.css",
+    "static/js/237.7d22f48e.chunk.js": "/static/js/237.7d22f48e.chunk.js",
+    "static/js/98.9a014fd9.chunk.js": "/static/js/98.9a014fd9.chunk.js",
+    "static/js/119.cb796137.chunk.js": "/static/js/119.cb796137.chunk.js",
+    "static/media/two-couples-observing-a-painting.jpg": "/static/media/two-couples-observing-a-painting.4d1fa94c1620cf220f04.jpg",
+    "static/media/grey-room-with-a-table-and-a-painting-635w.jpg": "/static/media/grey-room-with-a-table-and-a-painting-635w.d3bcca8cf4d0634d0f7f.jpg",
+    "static/media/grey-room-with-paintings-635w.jpg": "/static/media/grey-room-with-paintings-635w.5a061d90f4b34065ab90.jpg",
+    "static/media/grey-room-with-a-table-and-a-painting-398w.jpg": "/static/media/grey-room-with-a-table-and-a-painting-398w.58d3efa9fec6a2f257d9.jpg",
+    "static/media/grey-room-with-paintings-398w.jpg": "/static/media/grey-room-with-paintings-398w.c3d45d80f5ee10dd011b.jpg",
+    "static/media/brown-room-with-people-looking-at-paintings-445w.jpg": "/static/media/brown-room-with-people-looking-at-paintings-445w.3b7015008b8063a6f88c.jpg",
+    "static/media/grey-room-with-a-table-and-a-painting-343w.jpg": "/static/media/grey-room-with-a-table-and-a-painting-343w.0bf1e73f3018b5fe7549.jpg",
+    "static/media/grey-room-with-paintings-343w.jpg": "/static/media/grey-room-with-paintings-343w.3a78ca1205a50d650208.jpg",
+    "static/media/brown-room-with-people-looking-at-paintings-398w.jpg": "/static/media/brown-room-with-people-looking-at-paintings-398w.019f1807dd7b6a360f3d.jpg",
+    "static/media/brown-room-with-people-looking-at-paintings-343w.jpg": "/static/media/brown-room-with-people-looking-at-paintings-343w.1b2f44a7184f4dc8a26d.jpg",
+    "index.html": "/index.html",
+    "static/media/footer-modern-art-gallery-logo.svg": "/static/media/footer-modern-art-gallery-logo.9408692d38a5285da5c8ad51cdf7eae3.svg",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.2024f260069af6a5d23722dadf154011.svg",
+    "static/media/twitter-icon.svg": "/static/media/twitter-icon.b6cc742f6de7a6acfdf56db4f8527ff5.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.f3a12004520fbfd264f058cac761de70.svg",
+    "static/media/map-marker.svg": "/static/media/map-marker.5e1026fdbfe0116418e825bdd872a5ba.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.9c20be73ca8af545fe042d988c839c16.svg",
+    "main.18bc094c.css.map": "/static/css/main.18bc094c.css.map",
+    "main.4b550467.js.map": "/static/js/main.4b550467.js.map",
+    "237.a9576c5f.chunk.css.map": "/static/css/237.a9576c5f.chunk.css.map",
+    "237.7d22f48e.chunk.js.map": "/static/js/237.7d22f48e.chunk.js.map",
+    "98.9a014fd9.chunk.js.map": "/static/js/98.9a014fd9.chunk.js.map",
+    "119.cb796137.chunk.js.map": "/static/js/119.cb796137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18bc094c.css",
+    "static/js/main.4b550467.js"
+  ]
+}
