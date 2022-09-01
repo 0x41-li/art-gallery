@@ -12,8 +12,8 @@ module.exports = {
         "dark-grey": "#444444",
       },
       fontFamily: {
-        bsd: ["Big Shoulders Display", "sans-serif"],
-        outfit: ["Outfit", "sans-serif"],
+        bsd: ["Big Shoulders Display", "Arial", "sans-serif"],
+        outfit: ["Outfit", "Arial", "sans-serif"],
       },
     },
   },
