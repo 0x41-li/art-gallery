@@ -30,7 +30,7 @@ const Hero = () => {
             and find out.
           </p>
           <RedirectingBtn
-            addToClassName="mt-8 md:mt-12 xl:mt-[64px]"
+            addToClassName="mt-8 md:mt-12 xl:mt-[64px] w-[260px]"
             to="/location"
             text="OUR LOCATION"
           />
