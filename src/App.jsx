@@ -1,5 +1,5 @@
 import React, { Suspense, useEffect } from "react";
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 import Loading from "./components/Loading";
 
 import WebFont from "webfontloader";
@@ -14,10 +14,7 @@ const App = () => {
   useEffect(() => {
     WebFont.load({
       google: {
-        families: [
-          "Big Shoulders Display:900",
-          "Outfit:300&display=swap",
-        ],
+        families: ["Big Shoulders Display:900", "Outfit:300&display=swap"],
       },
     });
   }, []);
@@ -28,6 +25,10 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/location" element={<Location />} />
+          <Route
+            path="*"
+            element={<Navigate to="/" replace="true" />}
+          />
         </Routes>
       </Suspense>
     </>
