@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/art-gallery/static/css/main.1b1605bc.css",
-    "main.js": "/art-gallery/static/js/main.a844ff4e.js",
+    "main.css": "/art-gallery/static/css/main.e832a18e.css",
+    "main.js": "/art-gallery/static/js/main.3999df7b.js",
     "static/css/237.a9576c5f.chunk.css": "/art-gallery/static/css/237.a9576c5f.chunk.css",
     "static/js/237.c3f9e13d.chunk.js": "/art-gallery/static/js/237.c3f9e13d.chunk.js",
-    "static/js/98.ae3ebcbc.chunk.js": "/art-gallery/static/js/98.ae3ebcbc.chunk.js",
+    "static/js/98.2c2d808c.chunk.js": "/art-gallery/static/js/98.2c2d808c.chunk.js",
     "static/js/119.cb796137.chunk.js": "/art-gallery/static/js/119.cb796137.chunk.js",
     "static/media/two-couples-observing-a-painting.jpg": "/art-gallery/static/media/two-couples-observing-a-painting.4d1fa94c1620cf220f04.jpg",
     "static/media/grey-room-with-a-table-and-a-painting-635w.jpg": "/art-gallery/static/media/grey-room-with-a-table-and-a-painting-635w.d3bcca8cf4d0634d0f7f.jpg",
@@ -23,15 +23,15 @@
     "static/media/facebook-icon.svg": "/art-gallery/static/media/facebook-icon.f3a12004520fbfd264f058cac761de70.svg",
     "static/media/map-marker.svg": "/art-gallery/static/media/map-marker.5e1026fdbfe0116418e825bdd872a5ba.svg",
     "static/media/arrow-right.svg": "/art-gallery/static/media/arrow-right.9c20be73ca8af545fe042d988c839c16.svg",
-    "main.1b1605bc.css.map": "/art-gallery/static/css/main.1b1605bc.css.map",
-    "main.a844ff4e.js.map": "/art-gallery/static/js/main.a844ff4e.js.map",
+    "main.e832a18e.css.map": "/art-gallery/static/css/main.e832a18e.css.map",
+    "main.3999df7b.js.map": "/art-gallery/static/js/main.3999df7b.js.map",
     "237.a9576c5f.chunk.css.map": "/art-gallery/static/css/237.a9576c5f.chunk.css.map",
     "237.c3f9e13d.chunk.js.map": "/art-gallery/static/js/237.c3f9e13d.chunk.js.map",
-    "98.ae3ebcbc.chunk.js.map": "/art-gallery/static/js/98.ae3ebcbc.chunk.js.map",
+    "98.2c2d808c.chunk.js.map": "/art-gallery/static/js/98.2c2d808c.chunk.js.map",
     "119.cb796137.chunk.js.map": "/art-gallery/static/js/119.cb796137.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b1605bc.css",
-    "static/js/main.a844ff4e.js"
+    "static/css/main.e832a18e.css",
+    "static/js/main.3999df7b.js"
   ]
 }
