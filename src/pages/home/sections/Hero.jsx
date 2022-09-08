@@ -14,7 +14,7 @@ const Hero = () => {
       </div>
       <div className="px-4 max-w-[475px] md:px-0 md:max-w-[339px] md:absolute md:top-[145px] md:left-[50.6vw] xl:w-[1110px] xl:max-w-none xl:left-[165px] xl:flex xl:top-[190px]">
         <div className="relative mt-8 md:mt-0 xl:w-[514px]">
-          <h1 className="text-almost-black font-bsd [font-size:60px] [font-weight:900] [line-height:55px] uppercase md:[font-size:70px] md:[line-height:65px] xl:[font-size:96px] xl:[line-height:88px] xl:w-[514px] xl:text-white [mix-blend-mode:difference]">
+          <h1 className="text-almost-black font-bsd [font-size:60px] [font-weight:900] [line-height:55px] uppercase md:[font-size:70px] md:[line-height:65px] xl:[font-size:96px] xl:[line-height:88px] xl:w-[514px] xl:[color:transparent] xl:[background-clip:text] xl:[background-image:linear-gradient(90deg,_white_285px,__white_285px,_black_285px,_black)]">
             MODERN <br />
             ART GALLERY
           </h1>
