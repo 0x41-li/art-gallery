@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/0x41-li/art-gallery](https://github.com/0x41-li/art-gallery)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://0x41-li.github.io/art-gallery/](https://0x41-li.github.io/art-gallery/)
 
 ## My process
 
